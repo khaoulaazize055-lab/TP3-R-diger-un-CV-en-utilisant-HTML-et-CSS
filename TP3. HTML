@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="CV">
+
+    <div class="left">
+        <img src="photo.jpg" class="profile">
+
+        <h2>KHAOULA AZIZE</h2>
+
+        <div class="section">
+            <h3>CONTACT</h3>
+            <ul>
+                    <li> <a href="C:\Users\hp\Desktop\CV\message.html">khaoulaazize055@gmail.com</a></li>
+                    <li>0751826529</li>
+                    <li>Tabounte Tarmigt ouarzazate</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>LANGUAGES</h3>
+            <ul>
+                    <li>English</li>
+                    <li>French</li>
+                    <li>Spanish</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>SKILLS</h3>
+            <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Programmation Python</li>
+                    <li>Programmation C</li>
+            </ul>
+        </div>
+    </div>
+            
+        <div class="right">
+
+            <h1>Profil</h1>
+            <p>Développeur logiciel expérimenté cherchant un poste dans une entreprise technologique pour développer mes compétences et contribuer à la réussite de l'entreprise </p> 
+            <h1>formation</h1>
+            <ul>
+                    <li>licence en informatique, Université Ibn Zohr Ouarzazate (2013-2016)</li>
+                    <li>baccalauréat en sciences physique, lycée Imam Malik Ouarzazate (2013)</li>
+            </ul>
+
+            <h1>Expérience</h1>
+            <p>Développeur logiciel, ABC technologies (2016-2018)</p>
+            <ul>
+                    <li>Développement d'applictions web et mobiles</li>
+                    <li>Conception et mise en oeuvre de bases de données</li>
+                    <li>Collaboration avec l'équipe de Développement pour résoudre les problémes techniques</li>
+            </ul>
+
+            <p>stage, XYZ corporation (2015)</p>
+            <ul>
+                    <li>Développement d'une application web pour la gestion des stocks</li>
+                    <li>Assistance à l'équipe de Développement pour la résolution des problémes techniques</li>
+            </ul>
+
+            <h1>Projets</h1>
+            <ul>
+                    <li>Développement d'une appliction mobile pour la gestion des commandes en ligne</li>
+                    <li>Conception et mise en oeuvre d'une base de données pour un système de gestion des stocks</li>
+            </ul>
+
+            <h1>Hobbies</h1>
+            <ul>
+                   <li>Programmation et Développement</li>
+                   <li>Jeux d'échecs</li>
+                   <li>Lecture</li>
+                   <li>Voyage</li>
+                   <li>Sport</li>
+            </ul>
+
+            <h1>Centres d'intérêt</h1>
+            <ul>
+                   <li>technologie moderne</li>
+                   <li>Intelligence artificielle</li>
+                   <li>Sécurité informatique</li>
+                   <li>jeux vidéo</li>
+                   <li>Apprentissage des langues</li>
+            </ul>
+                
+        </div>
+
+           
+</div>
+
+</body>
+</html>
